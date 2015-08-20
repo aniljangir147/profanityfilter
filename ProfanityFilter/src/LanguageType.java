@@ -1,0 +1,15 @@
+
+public enum LanguageType {
+	
+	ENGLISH,
+	FRENCH,
+	HINDI,
+	SPANISH,
+	ARABIC,
+	GERMAN,
+	JAPANESE,
+	ITALIAN,
+	RUSSIAN,
+	CHINESE
+
+}
